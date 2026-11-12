@@ -146,9 +146,7 @@ Optimization-for-Vehicle-Routing-Problems-From-Basic-to-Capacitated-Models/
 ├── requirements.txt
 ├── .gitignore
 ├── docs/
-│   └── implementation_review.md
-└── results/
-    └── README.md
+    └── implementation_review.md
 ```
 
 The supplied notebook is organized into the following sections:
