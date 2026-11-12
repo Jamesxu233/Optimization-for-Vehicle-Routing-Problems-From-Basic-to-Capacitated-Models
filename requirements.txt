@@ -1,0 +1,5 @@
+# Dependencies imported by the supplied notebook
+numpy
+matplotlib
+ortools
+jupyter
